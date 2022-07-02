@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Windsor",
+        "area": "200",
+        "location": "London",
+        "img": "https://cdn.londonandpartners.com/-/media/images/london/visit/things-to-do/sightseeing/london-attractions/windsor-castle/windsor-castle-shutterstock-copyright-sloukam640x360.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Astoria",
+        "area": 300,
+        "location": "Paris",
+        "img": "https://him.nusatrip.net/FR/08/510329808/f69b1886d81a25979692f80320d009b9.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Blue Lagoon",
+        "area": 150,
+        "location": "Amsterdam",
+        "img": "https://fastly.4sqi.net/img/general/width960/8450872_UVWpZHnKbqlPf_NEzHuE05AyvDmmRM9gYKZFXTpS4ks.jpg"
+    }
+]
